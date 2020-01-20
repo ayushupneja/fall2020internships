@@ -9,7 +9,7 @@ Summer 2019 Tech Internships!
 
 To contribute:
  1. Fork repository
- 2. Edit README.md *(I used the [StackEdit Markdown Editor](https://stackedit.io/app#))*
+ 2. Edit README.md
  3. Open a pull request!
 
  **Note**: Locations may potentially span globally.

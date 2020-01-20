@@ -20,3 +20,4 @@ To contribute:
 |---|---|---|--|
 |  [Google](https://careers.google.com/jobs/results/138698023120052934-software-engineering-intern-bs-fall-2020/) | Global | Present  |   |
 |  [Facebook](https://www.facebook.com/careers/jobs/2350871135127906/) | All over the US | Present | |
+|  [Tesla](https://www.tesla.com/careers/job/autopilot-softwareinternshipfall2020-56966) | Palo Alto, CA | Present | |

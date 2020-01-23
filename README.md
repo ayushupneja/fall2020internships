@@ -30,3 +30,11 @@ To contribute:
 |  [AMD](https://jobs.amd.com/job/Orlando-Fall-2020-Debug-and-Validation-Co-Op-Engineer-%2875911%29-Flor/592420800/?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic) | Orlando, FL | Present | |
 |  [Plexus](https://plexus.wd5.myworkdayjobs.com/en-US/Plexus_Careers/job/Raleigh-NC/Intern---Software-Engineer--Fall-2020-_R007646) | Raleigh, NC | Present | |
 |  [HubSpot](https://boards.greenhouse.io/embed/job_app?token=807217&gh_src=240b46771&s=LinkedIn&source=LinkedIn) | Cambridge, MA | Present | |
+|  [Bookbub](https://www.bookbub.com/positions?gh_jid=2040036&gh_src=ce712ca71) | Cambridge, MA | Present | |
+|  [PathAI](https://www.pathai.com/careers/?gh_jid=4549091002&utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic) | Boston, MA | Present | |
+|  [iRobot](https://irobot.wd5.myworkdayjobs.com/en-US/iRobot/job/US-MA-Bedford/Software-Development-Co-op--July-2020-December-2020-_R835) | Bedford, MA | Present | |
+|  [Thermo Fisher Scientific](https://jobs.thermofisher.com/global/en/job/112011BR?refId=34jd24) | Franklin, MA | Present | |
+|  [Bose](https://boseallaboutme.wd1.myworkdayjobs.com/en-US/Bose_Careers/job/US-MA---Framingham/Embedded-Software-Engineering-Co-Op_R17299) | Framingham, MA | Present | Embedded SWE |
+|  [MITRE](https://mitre.referrals.selectminds.com/jobs/engineer-%E2%80%93-co-op-fall-2020-7467?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic) | San Francisco, CA | Present | |
+|  [Astranis](https://jobs.lever.co/astranis/a3542e7a-f1b3-4d70-8663-f796dac0a6e1) | Bedford, MA | Present | |
+|  [GE Aviation](https://jobs.gecareers.com/global/en/job/3318800/GE-Aviation-Technical-Intern-Coop-%E2%80%93-GE-Aviation-%E2%80%93-Fall-2020-Aug-Dec) | Evendale, OH | Present | |

@@ -35,7 +35,7 @@ To contribute:
 |  [iRobot](https://irobot.wd5.myworkdayjobs.com/en-US/iRobot/job/US-MA-Bedford/Software-Development-Co-op--July-2020-December-2020-_R835) | Bedford, MA | Present | |
 |  [Thermo Fisher Scientific](https://jobs.thermofisher.com/global/en/job/112011BR?refId=34jd24) | Franklin, MA | Present | |
 |  [Bose](https://boseallaboutme.wd1.myworkdayjobs.com/en-US/Bose_Careers/job/US-MA---Framingham/Embedded-Software-Engineering-Co-Op_R17299) | Framingham, MA | Present | Embedded SWE |
-|  [MITRE](https://mitre.referrals.selectminds.com/jobs/engineer-%E2%80%93-co-op-fall-2020-7467?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic) | San Francisco, CA | Present | |
+|  [MITRE](https://mitre.referrals.selectminds.com/jobs/engineer-%E2%80%93-co-op-fall-2020-7467?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic) | San Francisco, CA | Closed | |
 |  [Astranis](https://jobs.lever.co/astranis/a3542e7a-f1b3-4d70-8663-f796dac0a6e1) | Bedford, MA | Present | |
 |  [GE Aviation](https://jobs.gecareers.com/global/en/job/3318800/GE-Aviation-Technical-Intern-Coop-%E2%80%93-GE-Aviation-%E2%80%93-Fall-2020-Aug-Dec) | Evendale, OH | Present | |
 |  [numo](http://jobs.numo.com/apply/job_20191230203145_EYD0SD748NSWJP3M/Software-Engineering-Internship-Program-Fall-2020?source=LILI#60znzOhZpV) | Pittsburgh, PA | Present | |

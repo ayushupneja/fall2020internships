@@ -22,7 +22,7 @@ To contribute:
 |  [Facebook](https://www.facebook.com/careers/jobs/2350871135127906/) | All over the US | Present | |
 |  [Tesla](https://www.tesla.com/careers/job/autopilot-softwareinternshipfall2020-56966) | Palo Alto, CA | Present | |
 |  [Mathworks](https://www.mathworks.com/company/jobs/students/interns.html) | Natick, MA | Present | |
-|  [Datadog](https://www.datadoghq.com/careers/detail/?gh_jid=1839147&gh_src=8363eca61) | Boston, MA | Present | |
+|  [Datadog](https://www.datadoghq.com/careers/detail/?gh_jid=1839147&gh_src=8363eca61) | Boston, MA | Closed | |
 |  [Pegasystems](https://www.pega.com/about/careers/8960/software-engineer-fall-intern) | Alpharetta, GA | Present | |
 |  [Lockheed Martin](https://www.lockheedmartinjobs.com/job/-/-/694/14860048) | Liverpool, NY | Present | |
 |  [United Technologies](https://utc.jobs/cedar-rapids-ia/software-engineering-co-op-summerfall-2020/3010fe6f799b40d39a50577f987589d0/job/?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic) | Cedar Rapids, IA | Present | |

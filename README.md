@@ -39,3 +39,4 @@ To contribute:
 |  [Astranis](https://jobs.lever.co/astranis/a3542e7a-f1b3-4d70-8663-f796dac0a6e1) | Bedford, MA | Present | |
 |  [GE Aviation](https://jobs.gecareers.com/global/en/job/3318800/GE-Aviation-Technical-Intern-Coop-%E2%80%93-GE-Aviation-%E2%80%93-Fall-2020-Aug-Dec) | Evendale, OH | Present | |
 |  [numo](http://jobs.numo.com/apply/job_20191230203145_EYD0SD748NSWJP3M/Software-Engineering-Internship-Program-Fall-2020?source=LILI#60znzOhZpV) | Pittsburgh, PA | Present | |
+|  [Wish](https://jobs.lever.co/wish) | San Francisco, US | Present  |   |

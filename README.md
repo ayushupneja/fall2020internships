@@ -1,18 +1,18 @@
-# Fall 2020 Internships
 
+# Fall 2020 Internships
 Keep track of internships for Fall 2020 for undergraduates interested in tech, SWE, and related fields. Never too early to get started in your search! Thanks to [christine-hu](https://github.com/christine-hu/summer-2019-internships) who made a similar document for the 2019 season for formatting inspiration. Thanks to [elaine-zheng](https://github.com/elaine-zheng/summer2020internships) for making a similar document for the 2020 season for more formatting inspiration! Utilize the Python Script to receive an outputted Excel-Friendly version
 
 > Sites used to find internships include LinkedIn, Indeed, Glassdoor, and AngelList (startups).
-> Summer 2019 Tech Internships!
+Summer 2019 Tech Internships!
 > Positions are geared towards Computer Science majors who may have intersectional interests such as Design, > Finance, Research, etc. All positions are open to anyone enrolled in a Bachelor's degree program.
 
+
 To contribute:
+ 1. Fork repository
+ 2. Edit README.md
+ 3. Open a pull request!
 
-1.  Fork repository
-2.  Edit README.md
-3.  Open a pull request!
-
-**Note**: Locations may potentially span globally.
+ **Note**: Locations may potentially span globally.
 
 ## The List
 
@@ -41,4 +41,4 @@ To contribute:
 | [numo](http://jobs.numo.com/apply/job_20191230203145_EYD0SD748NSWJP3M/Software-Engineering-Internship-Program-Fall-2020?source=LILI#60znzOhZpV)                                                                         | Pittsburgh, PA        | Present            |              |
 | [Verkada](https://jobs.lever.co/verkada/9e53b19e-04cf-46ab-b530-90f71be10029?lever-source=Indeed)                                                                                                                       | San Mateo, California | Present            |              |
 | [Motorola Solutions](https://motorolasolutions.wd5.myworkdayjobs.com/en-US/Careers/job/Champaign-IL-IL169/Software-Engineer-Intern--Research-Park-Fall-Co-op-_R5183?source=APPLICANT_SOURCE-6-250)                      | Champaign, IL         | Present            |              |
-| [Warner Bros Games](http://wbgamesny.com/careers/software-engineer-intern/)                                                                                                                                             | San Mateo, California | Present            |              |
+| [Warner Bros Games](http://wbgamesny.com/careers/software-engineer-intern/)                                                                                                                                             | Troy, NY              | Present            |              |
